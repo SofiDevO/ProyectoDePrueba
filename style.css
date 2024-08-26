@@ -1,0 +1,8 @@
+body{
+    background: black;
+    color: white;
+    display: grid;
+    place-content: center;
+    width: 100%;
+    min-height: 100dvh;
+}
